@@ -1,0 +1,51 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+/*
+Palette #2
+#EDEAE0
+#F0F8FF
+#FAEBD7
+#F0FFFF
+#F5F5DC
+#E3DAC9
+#F7E7CE
+#FFF8DC
+#FFF8E7
+#FFFDD0
+#F0EAD6
+#FFFAF0
+#EEDC82
+#F8F8FF
+#F0FFF0
+#F4F0EC
+#FFFFF0
+#FFF0F5
+#FFFACD
+#FAF0E6
+#F4E9D8
+#F5FFFA
+#FFE4E1
+#FFDEAD
+#E9FFDB
+#FDF5E6
+#FFEFD5
+#FFE5B4
+#E5E4E2
+#FFF5EE
+#FFFAFA
+#F3E5AB
+#FFFFFF
+#F5F5F5
+*/
+.shades_of_white {
+    /* background: linear-gradient(to right, alabaster, alice blue, antique white, azure white, beige, bone, champagne, cornsilk, cosmic latte, cream, eggshell, floral white, flax, ghost white, honeydew, isabelline, ivory, lavender blush, lemon chiffon, linen, magnolia, mint cream, misty rose, navajo white, nyanza, old lace, papaya whip, peach, platinum, seashell, snow, vanilla, white, white smoke); */
+    background: linear-gradient(to right, #EDEAE0, #F0F8FF, #FAEBD7, #F0FFFF, #F5F5DC, #E3DAC9, #F7E7CE, #FFF8DC, #FFF8E7, #FFFDD0, #F0EAD6, #FFFAF0, #EEDC82, #F8F8FF, #F0FFF0, #F4F0EC, #FFFFF0, #FFF0F5, #FFFACD, #FAF0E6, #F4E9D8, #F5FFFA, #FFE4E1, #FFDEAD, #E9FFDB, #FDF5E6, #FFEFD5, #FFE5B4, #E5E4E2, #FFF5EE, #FFFAFA, #F3E5AB, #FFFFFF, #F5F5F5)
+    /* background: linear-gradient(white, whitesmoke, snow, honeydew, mintcream, azure, aliceblue, ghostwhite, seashell, beige, oldlace, floralwhite, ivory, antiquewhite, linen, lavenderblush); */
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+}
